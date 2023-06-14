@@ -1,2 +1,2 @@
 #!/bin/bash
-epxort PATH=$PATH:/action
+export PATH=$PATH:/action
